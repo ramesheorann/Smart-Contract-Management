@@ -109,8 +109,8 @@ const getOwnerAddress = async () => {
 
     return (
       <div>
-        <p>Your Account: {account}</p>
-        <p>Your Balance: {balance}</p>
+        <p>Your Account Address: {account}</p>
+        <p>Your Account Balance: {balance}</p>
         <button onClick={deposit}>Deposit 1 ETH</button>
         <button onClick={withdraw}>Withdraw 1 ETH</button>
         <button onClick={getOwnerAddress}>Get Owner Address</button>
@@ -123,7 +123,7 @@ const getOwnerAddress = async () => {
 
   return (
     <main className="container">
-      <header><h1>Ethereum Bank</h1></header>
+      <header><h1>Personal Ethereum Bank</h1></header>
       {initUser()}
       <style jsx>{`
         .container {
