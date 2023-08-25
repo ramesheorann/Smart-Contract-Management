@@ -18,6 +18,7 @@ Then add the new network inside metamask wallet and fill
    1. RPC url from ports-> copy address of port 8545
    2. Chain Id = 31337
    3. Currency Symbol =ETH
+
 Then add your account to metamask wallet by pasting the private key of account #0 from terminal 2 at the import account option.
 
 ### Deployment 
