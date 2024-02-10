@@ -28,11 +28,13 @@ Typically at http://localhost:3000/# Smart-Contract-Management
 open project then click on connect Metamask Wallet and than perform transactions.
 
 ## Authors
-
-Ramesh 
-[@ramesh](https://www.linkedin.com/in/ramesheorann/)
+[Ramesh](https://www.linkedin.com/in/ramesheorann/)
 
 
 ## License
 
 This project is released under the [MIT License](LICENSE).
+
+## Credits
+
+This project is a solution to the project task provided by [MetaCrafters](https://www.metacrafters.io/).
