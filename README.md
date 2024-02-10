@@ -29,10 +29,10 @@ open project then click on connect Metamask Wallet and than perform transactions
 
 ## Authors
 
-Ramesh/Sonu 
-[@ramesh](https://www.linkedin.com/in/sonusheorann/)
+Ramesh 
+[@ramesh](https://www.linkedin.com/in/ramesheorann/)
 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is released under the [MIT License](LICENSE).
